@@ -54,13 +54,13 @@ firstly create an account at the [github website](https://github.com/)
 
 ## 2.2) Creating remote repository
 when navigating to https://github.com/ the page should look something like this:
-![[Pasted image 20240911124958.png]]
+![github-homepage.png](assets/github-homepage.png)
 
 click on the green "new" button
-![[Pasted image 20240911125020.png]]
+![new-repo-button.png](assets/new-repo-button.png)
 
 you should get a page like this:
-![[Pasted image 20240911125055.png]]
+![empty-repo-page.png](assets/empty-repo-page.png)
 You should assign a repository name in the respective field.
 
 Public and private options are explained in the tooltip, keeping it public is fine, and can be changed at any time.
@@ -68,7 +68,7 @@ Public and private options are explained in the tooltip, keeping it public is fi
 the rest of the options are not relevant right now and can be left as defaults.
 
 Once you click "create repository" you should land on a page like this:
-![[Pasted image 20240911125356.png]]
+![empty-repo-page.png](assets/empty-repo-page.png)
 this is your (empty for now) remote repository.
 
 ## 2.3) Email settings
@@ -76,9 +76,9 @@ the first time you are going to try pushing a repository, you might run into the
 
 1. go to https://github.com/settings/profile
 2. navigate to the emails tab
-	![[Pasted image 20240911130554.png]]
+![emails-tab.png](assets/emails-tab.png)
 3. take note of the github email (marked in green in the image below):
-	![[Pasted image 20240911130708.png]]
+![emails-page.png](assets/emails-page.png)
 
 this is the email that you will use to make pushes.
 
@@ -108,7 +108,7 @@ obviously you should replace `https://github.com/tomm2000/git4noobs` with the ur
 if you refresh the remote repository you should now see the files of your local repository.
 
 ## 2.4) Pushing
-if you want to push local changes to the remote repository you first need to perform a [[git4noobs#1.3) Commit new changes|commit]] on the local repository.
+if you want to push local changes to the remote repository you first need to perform a commit on the local repository.
 
 NOTE: when you push changes you only push the commit, uncommited changes won't be pushed to the remote.
 
