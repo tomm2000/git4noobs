@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "be2f3da026487c63",
+        "id": "30397029b217f552",
         "type": "tabs",
         "children": [
           {
-            "id": "416b1d9ce96f679d",
+            "id": "486dd374f56c5060",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/emails-page.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/emails-page.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/emails-page.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/emails-page.png"
+                "file": "README.md"
               }
             }
           }
@@ -144,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "416b1d9ce96f679d",
+  "active": "486dd374f56c5060",
   "lastOpenFiles": [
+    "assets/emails-page.png",
     "git4noobs.md",
     "README.md",
-    "assets/emails-page.png",
     "assets/Pasted image 20240911130548.png",
     "assets/Pasted image 20240911130554.png",
     "assets/emails-tab.png",
