@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "264f47622b06d9d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "be2f3da026487c63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "416b1d9ce96f679d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git4noobs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e777d93709fcedb",
+    "type": "split",
+    "children": [
+      {
+        "id": "344da424cd45ed48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fcebbbb1a426798",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7dfb4bf67675b632",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "480ac97aa4b73526",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35e171584723f4a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8b97cb783c8d375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "100d77267280ea8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git4noobs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b62de138bb4306b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git4noobs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "875263b901edba64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efdb996d4997a104",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git4noobs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "416b1d9ce96f679d",
+  "lastOpenFiles": [
+    "assets/Pasted image 20240911124958.png",
+    "git4noobs.md",
+    "assets",
+    "exports/git4noobs.pdf",
+    "exports",
+    "New folder",
+    "assets/Pasted image 20240911130708.png",
+    "assets/Pasted image 20240911130554.png",
+    "assets/Pasted image 20240911130548.png",
+    "assets/Pasted image 20240911130547.png",
+    "assets/Pasted image 20240911125356.png",
+    "assets/Pasted image 20240911125055.png",
+    "assets/Pasted image 20240911125020.png",
+    "Welcome.md"
+  ]
+}
