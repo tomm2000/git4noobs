@@ -5,6 +5,10 @@
 1. go to the [git website download page](https://git-scm.com/downloads)
 2. download for your OS ([windows download](https://github.com/git-for-windows/git/releases/download/v2.46.0.windows.1/Git-2.46.0-64-bit.exe), not always up to date)
 3. run the installer with defaults
+4. if the following commands are not recognized, you might need to add the git path to the system path, [here is a guide](https://stackoverflow.com/questions/26620312/installing-git-in-path-with-github-client-for-windows). Or simply exceute this command in the command prompt (if you installed git in the default location):
+```cmd
+setx PATH "%PATH%;C:\Program Files\Git\bin"
+```
 
 ## 1.2) Initialize your repository
 a repository is essentially a project you want git to manage. Open the folder you want to turn into a git repository in a command prompt and run the following command:
