@@ -11,11 +11,9 @@
             "id": "416b1d9ce96f679d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "git4noobs.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/emails-page.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git4noobs.md",
+                "file": "assets/emails-page.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git4noobs.md",
+                "file": "assets/emails-page.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git4noobs.md"
+                "file": "assets/emails-page.png"
               }
             }
           }
@@ -148,13 +146,14 @@
   },
   "active": "416b1d9ce96f679d",
   "lastOpenFiles": [
+    "git4noobs.md",
+    "README.md",
     "assets/emails-page.png",
     "assets/Pasted image 20240911130548.png",
     "assets/Pasted image 20240911130554.png",
     "assets/emails-tab.png",
     "assets/empty-repo-page.png",
     "assets/create-new-repo-page.png",
-    "git4noobs.md",
     "assets/new-repo-button.png",
     "assets/github-homepage.png",
     "assets/Pasted image 20240911124958.png",
